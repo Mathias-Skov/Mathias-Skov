@@ -49,7 +49,7 @@ I'm currently looking for an internship where I can apply my skills in a profess
 ![Firewalls](https://img.shields.io/badge/Firewalls-Network%20Security-red)
 ![DDoS Mitigation](https://img.shields.io/badge/DDoS-Mitigation-red)
 ![Apache](https://img.shields.io/badge/Apache2-D22128?logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Basic%20Knowledge-2496ED?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Tools & Methods**
 ![Git](https://img.shields.io/badge/Git-GitHub-181717?logo=github)
