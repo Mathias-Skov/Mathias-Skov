@@ -34,6 +34,10 @@ I'm currently looking for an internship where I can apply my skills in a profess
 ![Razor](https://img.shields.io/badge/Razor-Pages-512BD4)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
+**Scripting & Game Development**
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
+![GLua](https://img.shields.io/badge/GLua-Garry's%20Mod-blue)
+
 **Databases**
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -58,6 +62,7 @@ I'm currently looking for an internship where I can apply my skills in a profess
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-Software%20Project%20Management-lightgrey)
 ![Project Management](https://img.shields.io/badge/Project-Management-blue)
+![Web Scraping](https://img.shields.io/badge/Web-Scraping-orange)
 ![Marketing](https://img.shields.io/badge/Marketing-SEO%20%26%20Analytics-green)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse-Engineering-red)
 ![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-red)
