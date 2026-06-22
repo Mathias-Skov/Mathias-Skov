@@ -1,6 +1,6 @@
 # Hi, I'm Mathias 👋
 
-I'm a 27-year-old Computer Science student (4th semester) at Erhvervsakademi Dania in Skive, Denmark — graduating January 2027. I'm passionate about software architecture, backend development, and low-level programming, and I love understanding how things work under the hood.
+I'm a Computer Science student (5th semester) at Erhvervsakademi Dania in Skive, Denmark — graduating January 2027. I'm passionate about software architecture, backend development, and low-level programming, and I love understanding how things work under the hood.
 
 I'm currently looking for an internship where I can apply my skills in a professional environment and learn how software development works in the real world.
 
